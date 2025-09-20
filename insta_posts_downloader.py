@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+AUTHOR 
+Papabear
+
 Instagram post downloader (Instaloader) dengan delay/randomized sleep dan retry.
 Tujuan: mengurangi kemungkinan rate-limit / deteksi bot oleh Instagram.
 
